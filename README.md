@@ -1,0 +1,8 @@
+- 👋 Olá, eu me chamo Bryan Henrique Ferro Lima,
+- 😄 Tenho 20 anos e... 
+- 👀 Estou estudando e aprendendo na faculdade sobre Projetos e Programação
+- 🌱 Tenho Muito Interrese na área de Programação
+- 💞️ Atualmente estou cursando 1º Semestre 
+- 📫 No curso de Análise e desenvolvimento de sistemas na SPTECH SCHOOL
+- ⚡ Fun fact: Me descobrindo na área de tecnologia
+- 🎮 Pretendo Programar Jogos algum dia...
